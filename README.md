@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritu Pun</h1>
+
 <h3 align="center">A passionate Software Developer</h3>
 
 <img align= "right" alt="coding" width="400" src= "https://github.com/Ritu-01/Ritu-Pun/assets/63670101/e14af712-7834-4a3f-a668-bb74f41235d5">
