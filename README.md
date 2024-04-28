@@ -4,7 +4,7 @@
 <img align= "right" alt="coding" width="400" src= "https://github.com/Ritu-01/Ritu-Pun/assets/63670101/e14af712-7834-4a3f-a668-bb74f41235d5">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu-01&label=Profile%20views&color=0e75b6&style=flat" alt="ritu-01" /> </p>
 
-- 🌱 I’m currently learning **studying springboot framework**
+- 🌱 I’m currently learning ** springboot framework**
 
 - 📫 How to reach me **punritu660@gmail.com**
 
